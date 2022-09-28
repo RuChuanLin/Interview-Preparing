@@ -2,9 +2,11 @@
 
 [LINK](https://interviewing.io/mocks/spotify-java-even-palindrome-generator/)
 
-## Print out all the 8 digits palindrome. Limitation: we can not use string manipulation.
+## Question1
 
-### Questions
+Print out all the 8 digits palindrome. Limitation: we can not use string manipulation.
+
+### Issues
 
 1. when you say 'we can not use string manipulation', does it mean that I can only use number type?
 2. What is the input?
@@ -90,4 +92,3 @@ class Scratch {
   }
 }
 ```
-
