@@ -4,6 +4,7 @@
 ## TEMPLATE
 
 ```
+## Practices
 ### []()
 
 Discuss
