@@ -1,8 +1,19 @@
 # 面試準備
 
+## 思路
+
+1. 求上下邊界
+   1. Binary Search(排序)
+   2. Binary Search Tree(排序)
+   3. Line Sweep(排序)
+   4. TreeMap
+2. 求群組隸屬／總合
+   1. Union Find
+
+
 ## 工具
 
-- [TreeMap](./Notes/Tools/TreeMap.md)
+- [TreeMap/TreeSet](./Notes/Tools/TreeMap_TreeSet.md)
 
 ## 演算法補充
 
