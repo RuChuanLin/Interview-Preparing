@@ -21,3 +21,9 @@
 - [掃描線算法 Line Sweep](./Notes/Algorithms/掃描線算法.md)
 - [線段樹 Segment Tree](./Notes/Algorithms/線段樹.md)
 - [並查集 Union Find](./Notes/Algorithms/並查集.md)
+
+
+
+## 經典題目
+
+- [493. Reverse Pairs](./Notes/Questions/493.%20Reverse%20Pairs.md)
