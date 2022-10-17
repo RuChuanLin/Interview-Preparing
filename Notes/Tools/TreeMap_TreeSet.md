@@ -18,9 +18,9 @@
   - 尋找**大於** key 的 entry
 - lowerEntry(K key)
   - 尋找**小於** key 的 entry
-- floorEntry(K key)
-  - 尋找**大於等於** key 的 entry
 - ceilingEntry(K key)
+  - 尋找**大於等於** key 的 entry
+- floorEntry(K key)
   - 尋找**小於等於** key 的 entry
 - firstEntry()
   - 相當於 PQ 的 peek
