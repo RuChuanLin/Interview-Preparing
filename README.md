@@ -10,6 +10,11 @@
 2. 求群組隸屬／總合
    1. Union Find
 
+3. Subsequence求和
+   1. 陣列的順序不重要 => 考慮是否要直接排序
+4. 鄰接消除
+   1. Stack(Leetcode括號消除)
+
 
 ## 工具
 
