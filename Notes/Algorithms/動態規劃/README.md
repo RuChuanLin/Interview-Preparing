@@ -2,7 +2,7 @@
 
 - [x] [动态规划四步解题法—搞定绝大多数类型动态规划题](https://www.bilibili.com/video/BV1gp4y1t7xe/?vd_source=46aedb9c354da6f47d9f9744b04e265e)
 - [x] [从此再也不怕动态规划了，动态规划解题方法论大曝光 ！](https://www.bilibili.com/video/BV13Q4y197Wg/?spm_id_from=333.337.search-card.all.click&vd_source=46aedb9c354da6f47d9f9744b04e265e)
-- [x] [【labuladong】动态规划核心套路详解](https://www.bilibili.com/video/BV1XV411Y7oE/?spm_id_from=333.788&vd_source=46aedb9c354da6f47d9f9744b04e265e)
+- [x] [【labuladong】动态规划核心套路详解](https://www.bilibili.com/video/BV1XV411Y7oE/?spm_id_from=333.788&vd_source=46aedb9c354da6f47d9 ＼f9744b04e265e)
 
 
 [听说背包问题很难？ 这篇总结篇来拯救你了](https://programmercarl.com/%E8%83%8C%E5%8C%85%E6%80%BB%E7%BB%93%E7%AF%87.html)
